@@ -4,7 +4,7 @@
 > [!NOTE]
 > - [The full text is uploaded as a PDF here](./[public]_mthes_comb_opt.pdf).
 > - This work (completed as part of the M.Sc. degree programme) was awarded a grade of 1.3 (excellent) from the University of Freiburg.
-> - > - The results from this work are currently in preparation for publication in the next version of the paper: [Extrapolation method to optimize linear-ramp QAOA parameters: Evaluation of QAOA runtime scaling](https://arxiv.org/abs/2504.08577)
+> - The results from this work are currently in preparation for publication in the next version of the paper: [Extrapolation method to optimize linear-ramp QAOA parameters: Evaluation of QAOA runtime scaling](https://arxiv.org/abs/2504.08577)
 
 ## Abstract
 
