@@ -15,4 +15,8 @@ The first variant of LR-QAOA, which we refer to as normalized Hamiltonian LR-QAO
 
 For both the classical and quantum algorithms, we investigate how the runtime of each of the algorithms scales with the problem size for both problems, and how the solution quality compares across algorithms.
 
-<img src="meme_thesis.png" width="50%" />
+---
+<figure>
+  <img src="meme_thesis.png" width="50%" />
+  <figcaption style="text-align: center;">A comic strip from the famous textbook <em>Computers and intractability: a guide to the theory of NP-completeness</em> (Garey & Johnson, 2009) on finding efficient algorithms for optimization problems</figcaption>
+</figure>
